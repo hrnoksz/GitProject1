@@ -1,1 +1,2 @@
 second file directly from GitHub.com
+I have to learn how to use git and github
